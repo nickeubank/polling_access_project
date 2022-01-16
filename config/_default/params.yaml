@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: false
-font: native
+font: fira sans
 font_size: L
 
 # SEO
