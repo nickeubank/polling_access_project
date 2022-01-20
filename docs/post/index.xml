@@ -5,7 +5,7 @@
     <link>https://nickeubank.github.io/polling_access_project/post/</link>
       <atom:link href="https://nickeubank.github.io/polling_access_project/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nickeubank.github.io/polling_access_project/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
@@ -13,22 +13,41 @@
     </image>
     
     <item>
+      <title>Early Voting Statistics</title>
+      <link>https://nickeubank.github.io/polling_access_project/post/22-01-16-early-voting/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nickeubank.github.io/polling_access_project/post/22-01-16-early-voting/</guid>
+      <description>&lt;p&gt;For all colleges in the 35 states with meaningful early voting in 2020:&lt;/p&gt;
+&lt;h2 id=&#34;average-college-perspective&#34;&gt;Average College Perspective&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;90% of colleges do not have an early voting option on campus.&lt;sub&gt;1&lt;/li&gt;
+&lt;li&gt;The nearest early voting option is more than 1 mile from the edge of campus for 54% of colleges.&lt;sub&gt;1&lt;/li&gt;
+&lt;li&gt;The nearest early voting option is more than 3 miles from the edge of campus for 23% of colleges.&lt;sub&gt;1&lt;/li&gt;
+&lt;li&gt;The nearest early voting option is more than 5 miles from the edge of campus for 15% of colleges.&lt;sub&gt;1&lt;/li&gt;
+&lt;li&gt;18% of colleges are closer to their nearest Starbucks than their nearest early voting option.&lt;sub&gt;1&lt;/li&gt;
+&lt;li&gt;3% of colleges are closer to their nearest Target than their nearest early voting option.&lt;sub&gt;1&lt;/li&gt;
+&lt;li&gt;The nearest early voting option is more than 1 mile away from the edge of campus for 63% of 2-year colleges and universities.&lt;sub&gt;1&lt;/li&gt;
+&lt;li&gt;The nearest early voting option is more than 1 mile away from the edge of campus for 46% of 4-year colleges and universities.&lt;sub&gt;1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;average-student-perspective&#34;&gt;Average Student Perspective&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;75% of students do not have an on campus early voting option.1&lt;/li&gt;
+&lt;li&gt;41% of students have their nearest early voting option greater than 1 mile from the edge of campus.1&lt;/li&gt;
+&lt;li&gt;55% of students have a Starbucks closer than their nearest Early Voting Option.1&lt;/li&gt;
+&lt;li&gt;22% of students have a Target closer than their nearest Early Voting Option.1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;footnotes&#34;&gt;Footnotes&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;These statistics are calculated using information on 1,896 colleges in 35 states with meaningful early voting for the 2020 Presidential election. Here we define meaningful early voting as a state with in-person early voting beyond county clerk buildings, and therefore with the potential to host an early voting site on a college campus. States not included in this sample either did not allow early voting, or had a very limited form of early voting that did not allow for the possibility of early voting on college campuses. The states with meaningful early voting are: AK, AR, AZ, CA, CO, DC, FL, GA, IA, ID, IL, IN, KS, LA, MA, MD, MI, MN, MT, NC, ND, NE, NM, NV, NY, OH, OK, PA, SD, TN, TX, UT, VA, WI, and WV. Our early voting polling place data comes from Ballot Ready for the 2020 November Presidential election. Our college campus data comes from the Students Learn Students Vote Coalition (SLSV) and represents all of the campuses listed in the National Student Clearinghouse in 2017 and any minority-serving institutions listed in the Rutgers Center for MSI Directory which are not already included in the National Student Clearinghouse data. We then exclude for-profit colleges and universities as well as specialized medical schools, and beauty schools. This provides us with a sample of 3,114 colleges and universities across the United States.  To facilitate our geospatial analyses, our sample is then restricted to the 2,258 college campuses whose campus boundaries are included in the Department of Homeland Security Homeland Infrastructure Foundation-Level Data (HIFLD) database. These 2,258 colleges had a total enrollment of about 15.6 million students.  In this dataset, we use 2020 enrollment data from The Integrated Post Secondary Education Data System (IPEDS) for the 68% of all campuses that have it. When colleges are missing from 2020 enrollment data, we use enrollment data from the HIFLD database. Distances reported are calculated as the shortest distance between the edge of campus and the nearest polling place (i.e., the  ?as the crow flies? distance). Target and Starbucks store data comes from ScrapeHero which consists of all the Official Stores present in the United States in 2020.&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
       <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
       <link>https://nickeubank.github.io/polling_access_project/post/20-12-02-icml-best-paper/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://nickeubank.github.io/polling_access_project/post/20-12-02-icml-best-paper/</guid>
       <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
-      <link>https://nickeubank.github.io/polling_access_project/post/20-12-01-wowchemy-prize/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://nickeubank.github.io/polling_access_project/post/20-12-01-wowchemy-prize/</guid>
-      <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
 &lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
 &lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
