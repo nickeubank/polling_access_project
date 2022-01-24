@@ -5,7 +5,7 @@
     <link>https://nickeubank.github.io/polling_access_project/post/</link>
       <atom:link href="https://nickeubank.github.io/polling_access_project/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nickeubank.github.io/polling_access_project/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Results Summary</title>
+      <link>https://nickeubank.github.io/polling_access_project/post/22-01-19-summary/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nickeubank.github.io/polling_access_project/post/22-01-19-summary/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In this website we present preliminary statistical findings relating to the 2020 Presidential election at college campuses across the United States. We begin with paragraph summaries of our most important findings. In following posts we present a list of all statistics in sentence format. Each statistic has a footnote that corresponds to detailed information about the data sources, sample and the method by which the statistic was calculated.&lt;/p&gt;
+&lt;p&gt;The statistics are calculated for all states with meaningful early voting (for our early voting statistics), all states for which we were able to find data on the location of election day polling places (for election day statistics), and the subset of the states where there was meaningful early voting options and where we were able to secure election day data (for statistics on the nearest early or election day voting option, which we refer to as ?combined statistics?).  Moreover, most statistics have been calculated both to reflect the experience of the average college, and also to reflect the experience of the average student, the latter of which gives greater weight to colleges with larger enrollment.&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;For the 2020 Presidential election, we find that in the 35 states that offer meaningful early voting options, only 10% of colleges have an early voting option on campus. For 54% of colleges, the nearest early voting option is more than a mile away; for nearly a quarter of colleges the nearest early voting option is more than 3 miles away. By contrast, a Starbucks is closer to campus than the nearest early voting option for 18% of colleges.&lt;/p&gt;
+&lt;p&gt;If we consider the perspective of the average student?rather than the average campus?the picture is a little more positive, but still still leaves ample room for improvement. We find that only 25% of college students have an early voting option on campus, and that the nearest early voting option is more than 1 mile from the edge of campus for 41% of students. But at the same time, 55% of college students have a Starbucks and 22% of students have a Target closer than their nearest early voting option.&lt;/p&gt;
+&lt;p&gt;When it comes to election day voting for the 2020 Presidential election, we find that 76% of colleges do not have an election day voting option on campus in the 35 states for which we have election day polling place location data. For 16% of colleges, the nearest election day voting option is more than a mile away, and for 2% of colleges the nearest election day voting option is more than 3 miles away. By contrast, a Starbucks is closer to campus than the nearest election day voting option for 21% of colleges in this sample.&lt;/p&gt;
+&lt;p&gt;Again, the picture is slightly more positive from the perspective of the average student, but still leaves room for improvement; over half of college students (56%) lack an election day voting option on campus, and for 10% of students, their nearest election day voting option is more than 1 mile from the edge of campus. For context, 26% of students have a Starbucks closer to their college than their nearest election day voting option.&lt;/p&gt;
+&lt;p&gt;When we examine these statistics for two-year and four-year colleges separately, we find that election day voting options are more accessible for four-year colleges. The nearest election day voting option is within one mile for 91% of four-year colleges, while this is only true for 80% of two-year colleges. (Two-year colleges are more likely to be commuter colleges, so we anticipate that their students are less likely to the polling place closest to their college campus when compared to the majority of four year colleges which are residential colleges.)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Early Voting Statistics</title>
-      <link>https://nickeubank.github.io/polling_access_project/post/22-01-16-early-voting/</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://nickeubank.github.io/polling_access_project/post/22-01-16-early-voting/</guid>
+      <link>https://nickeubank.github.io/polling_access_project/post/22-01-18-early-voting/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nickeubank.github.io/polling_access_project/post/22-01-18-early-voting/</guid>
       <description>&lt;p&gt;For all colleges in the 35 states with meaningful early voting in 2020:&lt;/p&gt;
 &lt;h2 id=&#34;average-college-perspective&#34;&gt;Average College Perspective&lt;/h2&gt;
 &lt;ul&gt;
@@ -31,10 +47,11 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;average-student-perspective&#34;&gt;Average Student Perspective&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;75% of students do not have an on campus early voting option.1&lt;/li&gt;
-&lt;li&gt;41% of students have their nearest early voting option greater than 1 mile from the edge of campus.1&lt;/li&gt;
-&lt;li&gt;55% of students have a Starbucks closer than their nearest Early Voting Option.1&lt;/li&gt;
-&lt;li&gt;22% of students have a Target closer than their nearest Early Voting Option.1&lt;/li&gt;
+&lt;li&gt;75% of students do not have an on campus early voting option.&lt;sub&gt;1&lt;/li&gt;
+&lt;li&gt;41% of students have their nearest early voting option greater than 1 mile from the edge of campus.&lt;sub&gt;1&lt;/li&gt;
+&lt;li&gt;55% of students have a Starbucks closer than their nearest Early Voting Option.&lt;sub&gt;1&lt;/li&gt;
+&lt;li&gt;22% of students have a Target closer than their nearest Early Voting Option.&lt;sub&gt;1&lt;/li&gt;
+&lt;li&gt;At least 7.7 million students do not have early voting options on campus.&lt;sub&gt;1&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;footnotes&#34;&gt;Footnotes&lt;/h2&gt;
 &lt;ol&gt;
@@ -44,9 +61,9 @@
     
     <item>
       <title>Election Day Voting Statistics</title>
-      <link>https://nickeubank.github.io/polling_access_project/post/22-01-16-election-day/</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://nickeubank.github.io/polling_access_project/post/22-01-16-election-day/</guid>
+      <link>https://nickeubank.github.io/polling_access_project/post/22-01-17-election-day/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nickeubank.github.io/polling_access_project/post/22-01-17-election-day/</guid>
       <description>&lt;p&gt;All colleges in the 35 states for which we have election day polling place information for 2020.&lt;/p&gt;
 &lt;h2 id=&#34;average-college-perspective&#34;&gt;Average College Perspective&lt;/h2&gt;
 &lt;ul&gt;
@@ -66,6 +83,7 @@
 &lt;li&gt;10% of students have their nearest election day voting option greater than 1 mile from the edge of campus.&lt;sub&gt;2&lt;/li&gt;
 &lt;li&gt;26% of students have a Starbucks closer than their nearest election day voting option from college.&lt;sub&gt;2&lt;/li&gt;
 &lt;li&gt;4% of students have a Target closer than their nearest election day voting option.&lt;sub&gt;2&lt;/li&gt;
+&lt;li&gt;At least 6.99 million students do not have election day voting options on campus.&lt;sub&gt;2&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;footnotes&#34;&gt;Footnotes&lt;/h2&gt;
 &lt;ol start=&#34;2&#34;&gt;
@@ -74,14 +92,33 @@
     </item>
     
     <item>
-      <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
-      <link>https://nickeubank.github.io/polling_access_project/post/20-12-02-icml-best-paper/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://nickeubank.github.io/polling_access_project/post/20-12-02-icml-best-paper/</guid>
-      <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+      <title>Combined Election Day &amp; Early Voting Statistics</title>
+      <link>https://nickeubank.github.io/polling_access_project/post/22-01-16-combined/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nickeubank.github.io/polling_access_project/post/22-01-16-combined/</guid>
+      <description>&lt;p&gt;All colleges in the 32 states with both meaningful early voting and for which we have election day polling place information for 2020.&lt;/p&gt;
+&lt;h2 id=&#34;average-college-perspective&#34;&gt;Average College Perspective&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;74% of colleges do not have any voting option on campus.&lt;sub&gt;3&lt;/li&gt;
+&lt;li&gt;The nearest voting option (any) is more than 1 mile from the edge of campus for 15% of colleges.&lt;sub&gt;3&lt;/li&gt;
+&lt;li&gt;The nearest voting option (any) is more than 3 miles from the edge of campus for 2% of colleges.&lt;sub&gt;3&lt;/li&gt;
+&lt;li&gt;21% of colleges are closer to their nearest Starbucks than their nearest voting option.&lt;sub&gt;3&lt;/li&gt;
+&lt;li&gt;3% of colleges are closer to their nearest Target than their nearest voting option.&lt;sub&gt;3&lt;/li&gt;
+&lt;li&gt;7.9% of 4-year colleges are closer to their nearest Starbucks than their nearest voting option.&lt;sub&gt;3&lt;/li&gt;
+&lt;li&gt;0.07% of 4-year colleges are closer to their nearest target than their nearest voting option.&lt;sub&gt;3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;average-student-perspective&#34;&gt;Average Student Perspective&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;53.71% of students do not have any voting option (Election Day or Early Voting).&lt;sub&gt;3&lt;/li&gt;
+&lt;li&gt;10.16% of students have their nearest voting option (Election Day or Early Voting) greater than 1 mile from the edge of campus.&lt;sub&gt;3&lt;/li&gt;
+&lt;li&gt;24% of students have a Starbucks closer than their nearest Voting Option (Election Day or Early Voting).&lt;sub&gt;3&lt;/li&gt;
+&lt;li&gt;3.93% of students have a Target closer than their nearest Voting Option (Election Day or Early Voting).&lt;sub&gt;3&lt;/li&gt;
+&lt;li&gt;At least 6.6 million students have neither early voting nor election day voting options on campus.&lt;sub&gt;3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;footnotes&#34;&gt;Footnotes&lt;/h2&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;These statistics represent 1,728 colleges in 32 states with both meaningful early voting and for which data on election day polling place locations in the 2020 November Presidential were made available by the Center for Public Integrity. Here we define meaningful early voting as a state with in-person early voting, early voting locations beyond county clerk buildings, and with the potential to host an early voting site on a college campus. States not included in this sample either did not allow early voting, had a very limited form of early voting, or were not present in our 2020 election day data. The states with both meaningful early voting and election day voting are: AK, AL, AR, CA, FL, GA, IA, IL, IN, LA, MA, MD, ME, MI, MN, NC, ND, NE, NH, NM, NV, OH, OK, PA, RI, SC, TX, UT, VA, VT, WI, and WV. Our early voting polling place data comes from Ballot Ready for the 2020 election. Our 2020 election day polling place data comes from the Center for Public Integrity and was limited to 35 states, some of which did not have meaningful early voting. Our college campus data comes from the Students Learn Students Vote Coalition (SLSV) and represents all of the campuses listed in the National Student Clearinghouse in 2017 and any minority-serving institutions listed in the Rutgers Center for MSI Directory which are not already included in the National Student Clearinghouse data. We then exclude for-profit colleges and universities as well as specialized medical schools, and beauty schools. This provides us with a sample of  3114 colleges and universities across the United States.  To facilitate our geospatial analyses, our sample is then restricted to  2258 college campuses whose campus boundaries are included in the  Department of Homeland Security Homeland Infrastructure Foundation-Level Data (HIFLD) database. These 2,258 colleges had a total enrollment of about 15.6 million students.  In this dataset, we used 2020 enrollment data from The Integrated Post Secondary Education Data System (IPEDS) for the 68% of all campuses that have it. When schools are missing from 2020 enrollment data, we use enrollment data from the HIFLD database. Distances reported are calculated as the shortest distance between the edge of campus and the nearest polling place (i.e., the  ?as the crow flies? distance). Target and Starbucks store data comes from ScrapeHero which consists of all the Official Stores present in the United States.&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     
   </channel>
