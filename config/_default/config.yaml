@@ -48,6 +48,8 @@ permalinks:
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  #home: [HTML, RSS, JSON]
+  #home: [] #[HTML, RSS  , JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 markup:
   defaultMarkdownHandler: goldmark
@@ -80,7 +82,7 @@ related:
       weight: 70
 
 ######################
-# Security 
+# Security
 ######################
 
 security:
