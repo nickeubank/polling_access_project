@@ -1,5 +1,5 @@
 ---
-title: Results Methodologies
+title: Methodology
 date: 2022-01-20
 ---
 
@@ -21,7 +21,7 @@ To help understand polling place access by university demographics, we require p
 
 We also needed the location data of US College campuses in the form of a point, polygon or multipolygon.  A point representation would be a single longitude latitude value present anywhere on the campus and a polygon representation depicts the boundaries of the college campus. When a campus is spread out in many places, multi-polygons are used to connect multiple polygons as one university. The illustration below depicts the differentiation between a point polygon and multipolygon.
 
-![polygon_example](content/post/22-01-20-methodology/polygon_example.png)
+![polygon example](static/uploads/polygon_example.png)
 
 We were able to source college and university geospatial data by accessing data provided by the Homeland Infrastructure Foundation-Level Data (HIFLD - ARCGIS). ARCGIS is a geographical information system (GIS) software that allows handling and analyzing geographic information by visualizing geographical statistics through layer building maps like climate data or trade flows. This dataset is composed of all Post Secondary Education facilities as defined by the Integrated PostSecondary Education System (IPEDS, http://nces.ed.gov/ipeds/), National Center for Education Statistics (NCES, https://nces.ed.gov/), US Department of Education for the 2018-2019 school year.1  The HIFLD data was stored in a shape file consisting of the college name and it’s respective coordinates. There were instances in which specific departments were designated as individual colleges. For example, along with Duke University, Fuqua School of Business, Sanford School of Public Policy, University Apartments were also included as separate colleges. To remedy this we removed said entries from the data utilizing string matching techniques.
 
