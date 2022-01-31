@@ -5,7 +5,7 @@ date: 2022-01-20
 
 ## Introduction
 
-On this page we'll outline the process of sourcing, cleaning, and analyzing our data.
+Processes pertaining to  sourcing, cleaning, and analyzing our data.
 
 <!--more--> 
 
