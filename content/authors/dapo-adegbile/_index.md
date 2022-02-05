@@ -66,4 +66,4 @@ user_groups:
 - Researchers
 ---
 
-Dapo Adegbile is a 2nd Year Masters Student of Interdisciplinary Data Science at Duke University. Dapo is interested in using data to better strategic advantages in basketball as well as the quantiative social science. He hopes to combine his technical skills and domain knowledge with the future goal of working in an NBA analytics role. 
+Dapo Adegbile is a 2nd Year Masters Student of Interdisciplinary Data Science at Duke University. Dapo is interested in using data to better strategic advantages in basketball as well as quantiative social science. He hopes to combine his technical skills and domain knowledge with the future goal of working in an NBA analytics role. 
