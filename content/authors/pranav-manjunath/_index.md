@@ -21,9 +21,9 @@ organizations:
 bio: Pranav Manjunath is a 2nd Year Masters Student of Data Science at Duke University.
 
 interests:
-- Basketball Analytics
-- Quantitative Social Science
-- Data Story Telling
+- ML and AI for Healthcare (HealthAI)
+- Deep Learning
+- Survival Analysis
 
 education:
   courses:
