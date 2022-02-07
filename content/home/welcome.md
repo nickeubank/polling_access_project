@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Campus Voting Access Project** is Duke MIDS-led effort to better understand variation in the accessibility of polling places to college students across the United States.
+The **Campus Voting Access Project** is Duke MIDS-led effort to better understand variation in the accessibility of polling places to college students across the United States in partnership with MTV Entertainment Group.
