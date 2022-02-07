@@ -41,7 +41,7 @@ bio: I am an Assistant Professor of Political Science at Duke University.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'http://www.adrianefresh.com/
+  link: 'http://www.adrianefresh.com/'
 #- icon: web
   #icon_pack: ai
  # link: https://www.linkedin.com/in/jasmine-young-jgy2020/
@@ -61,7 +61,7 @@ social:
 email: "jasmine.g.young@duke.edu"
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+  # Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Project Mentors
 ---
